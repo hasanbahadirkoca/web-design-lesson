@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Example 1 | Lesson 3</title>
+</head>
+<body>
+    <table border="3">
+        <tbody>
+            <!-- Use <tr> for new column -->
+            <tr>
+                <!-- Use <td> for new line -->
+                <td>1.Column 1.Line</td>
+                <td>2.Column 1.Line</td>
+                <td>3.Column 1.Line</td>
+            </tr>
+            <tr>
+                <td>1.Column 2.Line</td>
+                <td>2.Column 2.Line</td>
+                <td>3.Column 2.Line</td>
+            </tr>
+            <tr>
+                <td>1.Column 3.Line</td>
+                <td>2.Column 3.Line</td>
+                <td>3.Column 3.Line</td>
+            </tr>
+        </tbody>
+    </table>
+</body>
+</html>
